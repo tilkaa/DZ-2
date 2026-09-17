@@ -24,6 +24,7 @@
 6. **Конец**
 
 ### Блок-схема
+![Блок-схема алгоритма](lab_2_schema.png)
 
 
 (https://drive.google.com/file/d/1K36YHANuVxN658Kv5wAsP9JK5j-3CYDr/view?pli=1)
